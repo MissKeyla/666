@@ -1,0 +1,14 @@
+.links {
+  margin-bottom: 20px;
+}
+  
+.links a {
+  display: block;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: blue;
+}
+  
+.links a:hover {
+  text-decoration: underline;
+}
